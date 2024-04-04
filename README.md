@@ -60,5 +60,3 @@ You can customize the notification by modifying the following parameters in the 
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-You can copy and paste this Markdown content into a README file for your GitHub repository.
