@@ -59,4 +59,3 @@ You can customize the notification by modifying the following parameters in the 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
