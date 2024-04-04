@@ -1,6 +1,3 @@
-Sure, here's the README file in Markdown format:
-
-```markdown
 # Break Reminder
 
 This is a simple Python script that sends a desktop notification to remind you to take a break and play some games or relax your mind. The notification appears every hour (3600 seconds).
