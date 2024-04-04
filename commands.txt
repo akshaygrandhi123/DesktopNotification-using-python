@@ -1,4 +1,6 @@
 C:\Users\MY PC\AppData\Local\Programs\Python\Python312
 C:\Users\MY PC\AppData\Local\Programs\Microsoft VS Code
 cd Python
+cd..
+
 pythonw notification.py
